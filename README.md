@@ -17,6 +17,10 @@ This lab focuses on applying networking theory in a real environment, including 
 - **Rack:** 20U Network Rack  
 - **Patch Panel Installed**
 
+<p align="center">
+  <img src="CCNA-Home-Lab/img/1.Netowork Topology.png" width="700"/>
+</p>
+
 ---
 
 ## Objectives
