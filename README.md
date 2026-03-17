@@ -18,7 +18,7 @@ This lab focuses on applying networking theory in a real environment, including 
 - **Patch Panel Installed**
 
 <p align="center">
-  <img src="CCNA-Home-Lab/img/1.Netowork Topology.png" width="700"/>
+  <img src="CCNA-Home-Lab/img/1.Network Topology.png" width="700"/>
 </p>
 
 ---
